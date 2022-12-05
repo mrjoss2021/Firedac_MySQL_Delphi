@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/04 03.00.00.000.640,=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 15.00.00.000.391,=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/10 18.00.00.000.453,=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/13 11.00.00.000.676,=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.19.50.987,=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.25.34.641,D:\YOUTUBER\firedac_MySQL\uFrmMain.pas=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.25.34.641,D:\YOUTUBER\firedac_MySQL\uFrmMain.dfm=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/05 16.25.52.033,D:\YOUTUBER\firedac_MySQL\Fire_MySQL.dproj=C:\Users\edysoftware\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/05 16.27.43.592,=D:\YOUTUBER\firedac_MySQL\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.31.01.770,D:\YOUTUBER\firedac_MySQL\uDm.pas=D:\YOUTUBER\firedac_MySQL\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.31.01.770,D:\YOUTUBER\firedac_MySQL\uDm.dfm=D:\YOUTUBER\firedac_MySQL\Unit1.dfm</Transaction>
+    <Transaction>2022/12/05 16.31.28.875,=D:\YOUTUBER\firedac_MySQL\Unit1.pas</Transaction>
+    <Transaction>2022/12/05 16.32.08.805,D:\YOUTUBER\firedac_MySQL\uFrmSupplier.dfm=D:\YOUTUBER\firedac_MySQL\Unit1.dfm</Transaction>
+    <Transaction>2022/12/05 16.32.08.805,D:\YOUTUBER\firedac_MySQL\uFrmSupplier.pas=D:\YOUTUBER\firedac_MySQL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
